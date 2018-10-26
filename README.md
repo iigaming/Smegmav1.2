@@ -1,2 +1,3 @@
 # Smegmav1.2
-efgf
+Smegma Bot V1.2
+Bot Owner NotII
